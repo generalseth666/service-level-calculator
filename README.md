@@ -24,5 +24,5 @@ This is a simple tkinter application for calculating service level based on vari
 
 ## How to Run
 
-You can run the application by executing the `FASTSL.py` script using Python. Simply open a terminal or command prompt, navigate to the directory containing the script, and run the following command:
+You can run the application by executing the `FASTSL.py` script using Python. Simply open a terminal or command prompt, navigate to the directory containing the script, and run the following command: python3 FASTSL.py
 
